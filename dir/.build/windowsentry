@@ -1,0 +1,9 @@
+menuentry 'Windows 10' --class windows --class os {
+        insmod part_gpt
+        insmod fat
+        insmod search fs_uuid
+        insmod chain
+        search --no-floppy --fs-uuid --set=root 124D-F492
+        chainloader /EFI/Microsoft/Boot/bootmgfw.efi
+}
+

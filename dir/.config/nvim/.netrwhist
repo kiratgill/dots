@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/gurkirat/work/kiratgill.github.io'
+let g:netrw_dirhist_6='/home/gurkirat/.build'
+let g:netrw_dirhist_5='/home/gurkirat/.emacs.d/modules'
+let g:netrw_dirhist_4='/home/gurkirat/.emacs.d/auto-save-list'
+let g:netrw_dirhist_3='/home/gurkirat/.build/dwmblocks'
+let g:netrw_dirhist_2='/home/gurkirat/.config/procps'
+let g:netrw_dirhist_1='/home/gurkirat/.local/bin'

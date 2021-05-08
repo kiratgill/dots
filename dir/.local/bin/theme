@@ -1,0 +1,11 @@
+#!/usr/bin/sh
+
+cd
+
+rm $HOME/.Xresources
+
+cp "$HOME/.colors/$1" "$HOME/.Xresources"
+
+xrdb .Xresources
+
+cd -

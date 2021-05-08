@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xwallpaper --zoom ~/Downloads/nasa.png

@@ -1,0 +1,91 @@
+#TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
+,rclone, "To sync files with the remote file systems", I
+,GSL Shell, "GNU scientific library collection of numeric algorithms", I
+,maxima, "Equation solver", I
+,julia, "Programming language for computation", I
+,iverilog, "Icarus verilog simulator", I
+,GHDL, "open source implemention of VHDL", I
+,GTKWave, "Wave viewer", I
+,ngspice, "Circuit simulator", I
+,ledger, "Accounting sofware in CLI.",I
+,ncdu, "TUI disk space checker.", I
+,xorg-server,"is the graphical server.",I
+,xorg-xwininfo,"allows querying information about windows.",I
+,xorg-xinit,"starts the graphical server.",I
+,vulkan-intel,"Vulkan driver for intel",I
+,firefox,"browser",I
+,ripgrep,"grepping",I,C
+,p7zip,"archive utility",I
+,htop,"resource monitor",I
+,xorg-xinput, "input device management in xorg",I
+,nvidia,"driver for graphic card",I
+,bumblebee,"to switch graphic cards",I
+,zsh,"shell",I
+,thermald,"processor themal management",I
+,fd,"Alternative to find",I
+,tldr,"Man pages with use cases",I
+,tlp & tlp-rdw,"power management system and radio for linux",I
+,powertop,"monitor resources power usage in realtime",I
+,intel-undervolt,"unservolting CPU",I,C
+,ttf-linux-libertine,"provides the sans and serif fonts for LARBS.",N
+A,lf-git,"is an extensive terminal file manager that everyone likes.",I
+,arandr,"is a UI for screen adjustment.",N
+,bc,"is used for a dropdown calculator.",I
+,calcurse,"is a lightweight terminal-based calendar.",I
+,xcompmgr,"is for transparency and removing screen-tearing.",I
+,xorg-xprop,"is a tool for detecting window properties.",I
+,dosfstools,"allows your computer to access dos-like filesystems.",I
+,libnotify,"allows desktop notifications.",I
+,dunst,"is a suckless notification system.",I
+,exfat-utils,"allows management of FAT drives.",I
+,sxiv,"is a minimalist image viewer.",N
+,xwallpaper,"sets the wallpaper.",I
+,ffmpeg,"can record and splice video and audio on the command line.",I
+,gnome-keyring,"serves as the system keyring.",N
+A,gtk-theme-arc-gruvbox-git,"gives the dark GTK theme used in LARBS.",I
+,neovim,"a tidier vim with some useful features",I
+,mpd,"is a lightweight music daemon.",I
+,mpc,"is a terminal interface for mpd.",I
+,mpv,"is the patrician's choice video player.",I
+,ncmpcpp,"a ncurses interface for music with multiple formats and a powerful tag editor.",I
+,newsboat,"is a terminal RSS client.",I
+,noto-fonts-emoji,"is an emoji font.",N
+,ntfs-3g,"allows accessing NTFS partitions.",I
+,pulseaudio-alsa,"is the audio system.",I
+,pulsemixer,"is an audio controler.",I
+,pamixer,"is a command-line audio interface.",I
+A,sc-im,"is an Excel-like terminal spreadsheet manager.",I
+,maim,"can take quick screenshots at your request.",N
+,abook,"is an offline addressbook usable by neomutt.",N
+,neomutt,"email client.",I,NC
+,socat,"is a socket utility.",N
+,tmux,"is a terminal multiplexer and the dropdown window in LARBS.",I
+,unclutter,"hides an inactive mouse.",I
+,lynx,"is a terminal browser.",I
+,xcape,"gives the special escape/super mappings of LARBS.",N
+,xclip,"allows for copying and pasting from the command line.",I
+,xdotool,"provides window action utilities on the command line.",I
+,xorg-xdpyinfo,"aids with resolution determination and screen recording.",I
+,youtube-dl,"can download any YouTube video (or playlist or channel) when given the link.",I
+,zathura,"is a pdf viewer with vim-like bindings.",I
+,zathura-pdf-mupdf,"allows mupdf pdf compatibility in zathura.",I
+,poppler,"manipulates .pdfs and gives .pdf previews and other .pdf functions.",N
+,mediainfo,"shows audio and video information.",N
+,atool,"manages and gives information about archives.",N
+,fzf,"is a fuzzy finder tool.",I,NC
+,highlight,"can highlight code output.",N
+,xorg-xbacklight,"enables changing screen brightness levels.",I
+A,zsh-fast-syntax-highlighting,"provides syntax highlighting in the shell.",I
+A,task-spooler,"queues commands or files for download.",I
+A,simple-mtpfs-git,"enables the mounting of cell phones.",I
+V,setxkbmap,"allows LARBS's unique keyboard bindings.",N
+V,xmodmap,"allows LARBS's unique keyboard bindings.",N
+V,xsetroot,"sets status bar and other X properies.",I
+V,xset,"allows speeding up the X rate.",I
+G,https://github.com/LukeSmithxyz/dwmblocks.git,"serves as the modular status bar.",N,NC
+G,https://github.com/lukesmithxyz/dmenu.git,"runs commands and provides a UI for selection.",I,NC
+G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's terminal emulator.",I,C
+G,https://github.com/lukesmithxyz/dwm.git,"is the window manager.",I,NC
+A,mutt-wizard-git,"is a light-weight terminal-based email system.",N
+,slock,"allows you to lock your computer, and quickly unlock with your password.", I
+,mit-scheme,"For learning programming",I

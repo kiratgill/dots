@@ -1,0 +1,12 @@
+[Default Applications]
+
+text/x-shellscript=text.desktop;
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+text/plain=editor.desktop;
+application/postscript=pdf.desktop;
+application/pdf=pdf.desktop;
+application/epub=pdf.desktop;
+inode/directory=file.desktop;
+video/x-matroska=video.desktop;
+x-scheme-handler/org-protocol=org-protocol.desktop

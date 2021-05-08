@@ -1,0 +1,16 @@
+llvm
+graphviz
+languagetool
+texlive-core texlive-bin texlive-science
+gnuplot
+langtool
+cmake
+sbcl
+shellcheck
+marked
+python-black
+python-isort
+python-nose
+python-pipenv
+python-pytest
+python-pyflakes
